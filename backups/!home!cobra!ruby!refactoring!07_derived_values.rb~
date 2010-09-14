@@ -1,0 +1,15 @@
+require './05_sparkline.rb'
+
+NUMBER_OF_TOSSES = 1000
+
+def zero_or_one() rand(2) end
+def one_or_minus_one() zero_or_one * 2 - 1 end
+def next_value( y_values ) one_or_minus_one + y_values[-1] end
+
+def y_values
+  result = [0]
+  NUMBER_OF_TOSSES.times { result << next_value( result )}
+  result
+end
+
+puts Sparkline.new( y_values ).to_svg

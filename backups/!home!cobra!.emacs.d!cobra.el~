@@ -1,0 +1,16 @@
+;; Snippets
+(add-to-list 'load-path "~/.emacs.d/vendor/yasnippet-0.6.1c")
+(require 'yasnippet)
+(yas/initialize)
+(yas/load-directory "~/.emacs.d/vendor/yasnippet-0.6.1c/snippets")
+
+;; Color Themes
+(add-to-list 'load-path (concat dotfiles-dir "/vendor/color-theme-6.6.0"))
+(require 'color-theme)
+(color-theme-initialize)
+(color-theme-snow)
+
+;; Minor Modes
+(add-to-list 'load-path "~/.emacs.d/vendor/textmate.el")
+(require 'textmate)
+(textmate-mode)

@@ -1,0 +1,9 @@
+Feature: Delete Management
+  In order to provide quality content
+  As an author
+  I need to be able to delete posts
+
+Scenario: Delete Post
+Given a post exists
+When I go to that post's delete page
+

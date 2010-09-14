@@ -1,0 +1,16 @@
+Feature: Post Management & Display
+  In order to provide quality content
+  As an author
+  I need to be able to create posts
+
+Scenario: Create Post
+Given a user exists with name: "Johan Sveholm"
+When I go to the new post page
+And I fill in "Title" with "My Post Title"
+And I fill in "Body" with "This is still my post."
+And I select "Johan Sveholm" from "Author"
+And I fill in "Published on" with "Jul 22, 2010"
+And I press "Save Post"
+Then 1 posts should exist
+And a post should exist with title: "My Post Title", body: "This is still my post.", published_on: "2010-07-22"
+And I should be redirected to the post's page

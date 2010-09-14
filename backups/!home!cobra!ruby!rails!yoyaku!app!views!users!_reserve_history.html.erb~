@@ -1,0 +1,5 @@
+<fieldset class="intro">
+<legend><%= t(:reserve_history) %></legend>
+<div id="reserve_history">
+</div>
+</fieldset>

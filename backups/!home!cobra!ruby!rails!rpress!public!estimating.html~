@@ -1,0 +1,70 @@
+The Agile Manifesto states:
+
+<ul>
+  <li>Individuals and interactions over processes and tools</li>
+  <li>Working software over comprehensive documentation</li>
+  <li>Customer collaboration over contract negotiation</li>
+  <li>Responding to change over following a plan</li>
+</ul>
+
+<h1>Estimating</h1>
+Estimating your workload can be tricky, but most management, marketing, and sales departments want to know when new features or bug fixes will be out so they can project what they'll be able to sell in the future.<P>
+
+You can estimate on the following scales:
+<ul>
+  <li>T-shirt sizes</li>
+  <li>Fibonacci Numbers</li>
+  <li>Algorithmic/Exponential scale</li>
+  <li>Linear scale</li>
+</ul>
+
+It might be a good idea to abstract away the hours and give way for
+estimation in other units of measurement, such as:
+<ul>
+  <li>Points (Complexity)</li>
+  <li>Hours</li>
+  <li>Days</li>
+  <li>T-shirt sizes</li>
+</ul>
+
+Take everything you need to do and break it down to relatively easy to
+implement stories. Each of them represent an feature in your
+application. It is easier to estimate how long time these are going to
+take individually and then summarise the total, than estimate the
+entire scenario.<p>
+
+After estimating, put your estimations on a chart and track how
+quickly you get the stories done. Given the current velocity you can
+then calculate how fast the other stories will be done. Large stories
+are really hard to estimate accurately and if you don't have all the
+implementation information it will be an almost impossible task.<p>
+
+If you are estimating bugs. They are really hard to estimate.
+
+Only estimate two weeks out. Itteration or sprint.
+
+You should not have people voting who are not going to do the work.
+
+After you have estimated the task you can prioritize them and let ppl choose the task they want to work with.
+
+Some of the tasks you estimate depends on outside groups. If that is the case you need to take into account that that must be done. You need to be aware of this and point it out.
+<h3>Some Advice</h3>
+<ul>
+<li>If someone has done the work before, listen to them.</li>
+<li>It's ok to reestimate if you realise that you were really off in the previous estimate.</li>
+</ul>
+
+If you have a wide variation of estimations, instead of taking an average, you need to sit down and try to resolve the differences. One group may have seen something that the other group did not.
+
+<h3>Estimation Tools</h3>
+The most common is a deck of estimation cards. Fibernatie or T-shirt sizes. When you are voting everyone can show their cards or have an anonymous vote.
+
+If you estimate something you will be held to it. So if you miss the deadline...
+
+Piveltracker, put in your task or your story. They have many different scales and it will figure out your velocity. Over the cause of 2-3 weeks it will give you an average.
+
+Agile Couch.
+
+You are not doing anyone a favour by underestimating things.
+
+Overall, estimation can help you inform timelines, identify problems in features or your development cycle, and open discussion on tough features. 

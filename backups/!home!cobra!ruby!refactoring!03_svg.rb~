@@ -1,0 +1,8 @@
+module SVG
+  def rect( centre_x, centre_y, width, height, fill, stroke, stroke_width )
+    %Q{<rect x="#{centre_x}" y="#{centre_y}"
+  width="#{width}" height="#{height}"
+  fill="#{fill}" stroke="#{stroke}"
+  stroke-width="#{stroke_width}" />}
+  end
+end

@@ -1,0 +1,7 @@
+class Sparkline
+  attr_reader :y_values
+
+  def initialize( y_values )
+    @y_values = y_values
+  end
+end

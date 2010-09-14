@@ -1,0 +1,22 @@
+Background:
+Given a user exists with name: "Johan Sveholm"
+And a post exists with title: "My Post", body: "This is my post", author: that user, published_on: "Jul 22, 2010"
+
+Scenario: Edit Post Layout
+When I go to the post's edit page
+Then the "Title" field should contain "My Post"
+And the "Body" field should contain "This is my post"
+And the "Author" field should contain "Johan Sveholm"
+And the "Published on" field should contain "2010-07-22"
+
+Scenario: Edit Post
+When I go to the post's edit page
+And I fill in "Title" with "My Post Title"
+And I fill in "Body" with "This is still my post."
+And I select "Johan Sveholm" from "Author"
+And I fill in "Published on" with "Aug 17, 2010"
+And I press "Update Post"
+Then I should see "My Post Title"
+And I should see "This is still my post."
+And I should see "Johan Sveholm"
+And I should see "Jul 22, 2010f"

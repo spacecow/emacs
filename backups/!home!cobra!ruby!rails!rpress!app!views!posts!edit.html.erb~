@@ -1,0 +1,1 @@
+<%= render "form", :post => @post, :text_label => "Edit Post" %>

@@ -1,0 +1,15 @@
+Feature: Display
+  In order to provide quality content
+  As an author
+  I need to be able to list posts
+
+Background:
+Given a user exists with name: "Johan Sveholm"
+And a post exists with title: "My Post", body: "This is my post.", author: that user, published_on: "Jul 22, 2010"
+When I go to that post's page
+
+Scenario: Display Post
+Then I should see "My Post"
+And I should see "This is my post."
+And I should see "Johan Sveholm"
+And I should see "Jul 22, 2010"

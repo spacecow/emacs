@@ -1,0 +1,329 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/cobra/ruby/rails/first_app/public/stylesheets/" . "blueprint/")
+ ("/home/cobra/ruby/rails/first_app/public/" . "stylesheets/")
+ ("/home/cobra/ruby/rails/first_app/spec/" . "controllers/")
+ ("/home/cobra/ruby/rails/first_app/app/views/" . "layouts/")
+ ("/home/cobra/ruby/rails/first_app/app/" . "controllers/")
+ ("/home/cobra/ruby/rails/first_app/" . "app/")
+ ("/home/cobra/ruby/rails/yoyaku/public/" . "stylesheets/")
+ ("/home/cobra/jobs/mafumafu/tpm/" . "ja/")
+ ("/home/cobra/jobs/mafumafu/" . "tpm/")
+ ("/home/cobra/jobs/" . "mafumafu/")
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/" . "confirm/")
+ ("/home/cobra/ruby/rails/yoyaku/app/views/" . "users/")
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/" . "mypage/")
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/" . "users/")
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/" . "new/")
+ ("/home/cobra/ruby/rails/yoyaku/features/" . "plain/")
+ ("/usr/share/themes/Emacs/" . "gtk-2.0-key/")
+ ("/usr/share/themes/" . "Emacs/")
+ ("/usr/share/" . "themes/")
+ ("/usr/" . "share/")
+ ("/home/cobra/ruby/rails/rpress/app/views/" . "posts/")
+ ("/home/cobra/ruby/rails/rpress/features/" . "step_definitions/")
+ ("/home/cobra/ruby/rails/yoyaku/app/" . "views/")
+ ("/home/cobra/ruby/rails/yoyaku/config/" . "locales/")
+ ("/home/cobra/ruby/rails/yoyaku/vendor/" . "plugins/")
+ ("/home/cobra/ruby/rails/yoyaku/" . "app/")
+ ("/home/cobra/ruby/secret_santas/spec/" . "secret_santas/")
+ ("/home/cobra/ruby/secret_santas/lib/" . "secret_santas/")
+ ("/home/cobra/ruby/secret_santas/features/" . "step_definitions/")
+ ("~/ruby/secret_santas/" . "features/")
+ ("/home/cobra/ruby/secret_santas/" . "bin/")
+ ("/home/cobra/.emacs.d/vendor/yasnippet-0.6.1c/snippets/text-mode/" . "ruby-mode/")
+ ("/home/cobra/.emacs.d/vendor/yasnippet-0.6.1c/snippets/" . "text-mode/")
+ ("/home/cobra/.emacs.d/vendor/yasnippet-0.6.1c/" . "snippets/")
+ ("/home/cobra/.emacs.d/vendor/" . "yasnippet-0.6.1c/")
+ ("/home/cobra/.emacs.d/" . "vendor/")
+ ("~/.emacs.d/vendor/snippets/" . "text-mode/")
+ ("~/.emacs.d/vendor/" . "snippets/")
+ ("/home/" . "cobra/")
+ ("/" . "home/")
+ ("~/ruby/rails/rpress/app/" . "controllers/")
+ ("~/ruby/rails/rpress/" . "app/")
+ ("~/ruby/rails/" . "rpress/")
+ ("~/ruby/" . "secret_santas/")
+ ("~/" . "ruby/")
+ ("/home/cobra/ruby/rails/rpress/app/" . "controllers/")
+ ("/home/cobra/ruby/rails/rpress/" . "config/")
+ ("/home/cobra/ruby/rails/" . "first_app/")
+ ("/home/cobra/ruby/" . "rails/")
+ ("/home/cobra/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/cobra/.emacs.d/"
+ "/home/cobra/ruby/rails/first_app/app/controllers/"
+ "/home/cobra/ruby/rails/first_app/config/"
+ "/home/cobra/ruby/rails/first_app/spec/controllers/"
+ "/home/cobra/ruby/rails/first_app/spec/requests/"
+ "/home/cobra/ruby/rails/first_app/app/views/layouts/"
+ "/home/cobra/ruby/rails/first_app/public/stylesheets/"
+ "/home/cobra/ruby/rails/first_app/app/views/shared/"
+ "/home/cobra/ruby/rails/first_app/app/views/users/"
+ "/home/cobra/ruby/rails/first_app/app/models/"
+ "/home/cobra/ruby/rails/first_app/app/helpers/"
+ "/home/cobra/ruby/rails/first_app/"
+ "/home/cobra/ruby/rails/first_app/spec/models/"
+ "/home/cobra/ruby/rails/first_app/public/stylesheets/blueprint/"
+ "/home/cobra/ruby/rails/first_app/app/views/pages/"
+ "/home/cobra/ruby/rails/yoyaku/spec/"
+ "/home/cobra/ruby/rails/rpress/"
+ "/home/cobra/ruby/rails/first_app/spec/"
+ "/home/cobra/ruby/rails/first_app/public/"
+ "/home/cobra/ruby/rails/rpress/config/"
+ "/home/cobra/ruby/rails/yoyaku/app/views/users/"
+ "/home/cobra/ruby/rails/yoyaku/public/stylesheets/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/confirm/"
+ "/home/cobra/ruby/rails/yoyaku/features/step_definitions/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/reserve/"
+ "/home/cobra/ruby/rails/yoyaku/config/locales/"
+ "/home/cobra/"
+ "/home/cobra/ruby/rails/yoyaku/app/controllers/"
+ "/home/cobra/ruby/rails/yoyaku/app/models/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/"
+ "/home/cobra/ruby/rails/yoyaku/app/helpers/"
+ "/home/cobra/ruby/rails/yoyaku/app/views/klasses/"
+ "/home/cobra/ruby/rails/yoyaku/db/"
+ "/home/cobra/ruby/rails/yoyaku/features/support/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/reserve2/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/confirm2/"
+ "/home/cobra/ruby/rails/yoyaku/config/"
+ "/home/cobra/ruby/rails/yoyaku/test/"
+ "/home/cobra/ruby/rails/yoyaku/app/views/includes/"
+ "/home/cobra/ruby/rails/yoyaku/app/views/layouts/"
+ "/home/cobra/ruby/rails/yoyaku/config/environments/"
+ "/home/cobra/jobs/mafumafu/tpm/ja/"
+ "/home/cobra/jobs/mafumafu/"
+ "/home/cobra/ruby/rails/yoyaku/features/plain/new/users/reserve/"
+ "/home/cobra/ruby/rails/yoyaku/app/views/classrooms/"
+ "/home/cobra/ruby/rails/rpress/features/posts/"
+ "/home/cobra/ruby/rails/rpress/public/"
+ "/home/cobra/ruby/refactoring/"
+ "./"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "cobra.el"
+ "sessions_controller.rb"
+ "routes.rb"
+ "sessions_controller_spec.rb"
+ "users_spec.rb"
+ "application.html.erb"
+ "application.rb"
+ "custom.less"
+ "_error_messages.html.erb"
+ "users_controller_spec.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/cobra/ruby/rails/first_app/config/" (19597 62949) ".#routes.rb" "routes.rb" "locales/" "application.rb" "environments/" "environment.rb" "database.yml" "#routes.rb#" "./" "../" "boot.rb" "initializers/")
+
+ ("/home/cobra/ruby/rails/first_app/app/controllers/" (19597 62441) "pages_controller.rb" "application_controller.rb" "microposts_controller.rb" "sessions_controller.rb" "./" "../" "users_controller.rb")
+
+ ("/home/cobra/ruby/rails/first_app/spec/controllers/" (19597 62793) "pages_controller_spec.rb" "sessions_controller_spec.rb" "./" "../" "users_controller_spec.rb")
+
+ ("/home/cobra/ruby/rails/first_app/spec/" (19597 62477) "requests/" "controllers/" "./" "../" "spec_helper.rb" "models/")
+
+ ("/home/cobra/ruby/rails/first_app/app/views/" (19597 62441) "pages/" "sessions/" "shared/" "users/" "./" "microposts/" "../" "layouts/")
+
+ ("/home/cobra/ruby/rails/first_app/app/views/layouts/" (19597 62488) "_stylesheets.html.erb" "_footer.html.erb" "application.html.erb" "./" "_header.html.erb" "../")
+
+ ("/home/cobra/ruby/rails/first_app/spec/requests/" (19597 57253) "./" "layout_links_spec.rb" "../" "users_spec.rb")
+
+ ("/home/cobra/ruby/rails/first_app/public/stylesheets/" (19597 55547) "custom.css" "scaffold.css" "custom.less" "./" "../" ".gitkeep" "blueprint/")
+
+ ("/home/cobra/ruby/rails/first_app/app/views/shared/" (19597 55125) "_error_messages.html.erb" "./" "../")
+
+ ("./" (19597 54981) "show.html.erb" "new.html.erb" "_form.html.erb" "edit.html.erb" "index.html.erb" "./" "../")
+
+ ("/home/cobra/.emacs.d/" (19594 7395) "starter-kit-bindings.el" "starter-kit-lisp.el" "starter-kit-eshell.el" "elpa/" "dominating-file.el" "starter-kit-elpa.el" "starter-kit-registers.el" "package.el" "places" "TODO" "starter-kit-ruby.el" "backups/" "init.el" "elisp/" "cobra.el" "starter-kit-defuns.el" "starter-kit-js.el" "./" "auto-save-list/" "loaddefs.el" "../" "session.103279e58a5ef6cb78128107586869341500000012980046" "COPYING" ".git/" "starter-kit-misc.el" "elpa-to-submit/" "starter-kit-perl.el" "README.markdown" "vendor/")
+
+ ("/home/cobra/" (19597 49564) "227_upgrading_to_rails_3_part_3.mov" ".subversion/" ".ssh/" "jobs/" ".mysql_history" "Templates/" ".mozilla/" ".eshell/" ".openoffice.org/" ".xinput.d/" ".recently-used.xbel.2I0JGV" ".usbcreator.log" ".gksu.lock" "Downloads/" "Videos/" ".recentf" ".thumbnails/" "rbs_bus3.html" ".adobe/" ".emacs.d/" ".gvfs/" "rbs_bus_files/" ".recently-used.xbel.WYUHIV" "rbs_bus.html" ".recently-used.xbel.KPIPGV" ".pulse/" ".mplayer/" ".esd_auth" "Pictures/" "japanese.txt" "job/" ".xsession-errors" ".gconf/" ".anthy/" ".rvm/" "joshuaclayton-blueprint-css-1adea98/" ".viminfo" ".fontconfig/" ".debtags/" ".bash_history" ".recently-used.xbel.BV7XGV" ".xsession-errors.old" ".dbus/" "ruby_installation.txt" ".gnome2_private/" ".aptitude/" ".gstreamer-0.10/" ".profile" ".bashrc" ".evolution/" ".cache/" "keyswap.bat" ".gnome2/" "Music/" ".ICEauthority" "rbs_bus3_files/" "225_upgrading_to_rails_3_part_1.mov" ".local/" ".heroku/" ".recently-used.xbel" "test" ".gconfd/" "./" ".irssi/" ".ido.last" ".update-notifier/" "ruby/" ".pulse-cookie" "examples.desktop" ".gem/" ".gitconfig" ".recently-used.xbel.49F6HV" "../" ".sudo_as_admin_successful" ".nautilus/" "Desktop/" "Documents/" "rbs_bus2.html" "226_upgrading_to_rails_3_part_2.m4v.mp4" ".dmrc" ".bash_logout" ".macromedia/" ".config/" "1-getting-started.mov" ".kkcrc" "coco.el" ".gtk-bookmarks" "Public/" "blog/" ".mission-control/")
+
+ ("/home/cobra/ruby/rails/first_app/spec/models/" (19597 51380) "./" "user_spec.rb" "../")
+
+ ("/home/cobra/ruby/rails/first_app/app/helpers/" (19597 52270) "pages_helper.rb" "application_helper.rb" "microposts_helper.rb" "./" "users_helper.rb" "../")
+
+ ("/home/cobra/ruby/rails/first_app/app/views/users/" (19597 54981) "show.html.erb" "new.html.erb" "_form.html.erb" "edit.html.erb" "index.html.erb" "./" "../")
+
+ ("/home/cobra/ruby/rails/first_app/app/models/" (19597 52317) "user.rb" "micropost.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/first_app/" (19597 51958) ".rspec" "doc/" "Rakefile" "Gemfile.lock" "app/" "webrat.log" "spec/" "tmp/" ".gitignore" "config/" "log/" "public/" "config.ru" "test/" "./" "Gemfile" ".autotest" "../" "db/" "autotest/" ".git/" ".bundle/" "script/" "lib/" "README.markdown" "vendor/")
+
+ ("/home/cobra/ruby/rails/first_app/app/views/pages/" (19593 55516) "about.html.erb" "contact.html.erb" "help.html.erb" "./" "../" "home.html.erb")
+
+ ("/home/cobra/ruby/rails/first_app/public/stylesheets/blueprint/" (19593 44699) "plugins/" "src/" "screen.css" "print.css" "./" "ie.css" "../")
+
+ ("/home/cobra/ruby/rails/first_app/public/" (19592 32313) "javascripts/" "images/" "404.html" "422.html" "stylesheets/" "./" "500.html" "../" "robots.txt" "favicon.ico")
+
+ ("/home/" (19526 49178) "./" "../" "cobra/")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/includes/" (19591 30885) "_pair_message.html.erb" "_pair.html.erb" "./" "_side_contents.html.erb" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/config/" (19591 30886) "authorization_rules.rb" "routes.rb" "smtp_gmail.yml" "locales/" "deploy_staff.rb" "environments/" "schedule.rb" "deploy_beta.rb" "environment.rb" "database.yml" "deploy.rb" "./" "../" "boot.rb" "initializers/")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/support/" (19591 30886) "paths.rb" "paths_new.rb" "hooks.rb" "pickle.rb" "env.rb" "version_check.rb" "enhanced.rb" "./" "email.rb" "../" "plain.rb")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/helpers/" (19591 30885) "stories_helper.rb" "tags_helper.rb" "teachers_helper.rb" "settings_helper.rb" "glossaries_helper.rb" "people_helper.rb" "invitations_helper.rb" "schedules_helper.rb" "students_helper.rb" "words_helper.rb" "events_helper.rb" "galleries_helper.rb" "kunyomis_helper.rb" "votes_helper.rb" "registrants_helper.rb" "mailer_helper.rb" "comments_helper.rb" "application_helper.rb" "klasses_helper.rb" "classrooms_helper.rb" "course_times_helper.rb" "admin_helper.rb" "documentation_helper.rb" "units_helper.rb" "./" "users_helper.rb" "meanings_helper.rb" "todos_helper.rb" "courses_helper.rb" "reset_passwords_helper.rb" "../" "template_classes_helper.rb" "docs_helper.rb" "teachings_helper.rb" "onyomis_helper.rb" "user_sessions_helper.rb" "mails_helper.rb")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/" (19591 30886) "manage_registration.feature" "manage_courses.feature" "manage_multiple.feature" "salary/" "show.feature" "manage_teacher_courses.feature" "manage_users.feature" "mypage/" "manage_roles.feature" "manage_passwords.feature" "./" "manage_index.feature" "../" "confirm/" "manage_edit.feature")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/" (19591 30886) "./" "../" "confirm/" "reserve/")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/models/" (19591 30885) "kanjis_meanings.rb" "klass.rb" "registrant.rb" "tag.rb" "setting.rb" "user.rb" "kanjis_kunyomis.rb" "kanjis_onyomis.rb" "unit.rb" "comment.rb" "course.rb" "invitation.rb" "photo.rb" "todo.rb" "klasses_student.rb" "story.rb" "schedule_old.rb" "scheduled_unit.rb" "system_mailer.rb" "person.rb" "ability.rb" "vote.rb" "user_mailer.rb" "user_session.rb" "kunyomi.rb" "schedule.rb" "reset_password.rb" "mail.rb" "student.rb" "teacher.rb" "attendance.rb" "bank.rb" "event.rb" "teaching.rb" "classroom.rb" "registration.rb" "courses_teacher.rb" "glossary.rb" "sorting.rb" "./" "recipient.rb" "mailer.rb" "docs_tag.rb" "gallery.rb" "course_time.rb" "doc.rb" "meaning.rb" "onyomi.rb" "courses_student.rb" "../" "word.rb" "template_class.rb" "kanji.rb" "documentation.rb.old")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/controllers/" (19591 30885) "comments_controller.rb" "tags_controller.rb" "registrants_controller.rb" "application_controller.rb" "kanjis_controller.rb" "course_times_controller.rb" "docs_controller.rb" "votes_controller.rb" "kunyomis_controller.rb" "students_controller.rb" "units_controller.rb" "courses_controller.rb" "user_sessions_controller.rb" "photos_controller.rb" "galleries_controller.rb" "mails_controller.rb" "mailer_controller.rb" "reset_passwords_controller.rb" "teachers_controller.rb" "documentation_controller.rb" "teachings_controller.rb" "schedules_controller.rb" "onyomis_controller.rb" "./" "tempedit" "people_controller.rb" "meanings_controller.rb" "settings_controller.rb" "../" "attendances_controller.rb" "invitations_controller.rb" "todos_controller.rb" "words_controller.rb" "glossaries_controller.rb" "users_controller.rb" "events_controller.rb" "classrooms_controller.rb" "klasses_controller.rb" "stories_controller.rb" "template_classes_controller.rb" "admin_controller.rb")
+
+ ("/home/cobra/ruby/rails/yoyaku/config/locales/" (19591 30886) "en.yml" "./" "../" "ja.yml")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/reserve/" (19591 30886) "view.feature" "reserve_history.feature" "already_reserved_view.feature" "reserve.feature" "./" "date.feature" "../" "reserve_view.feature")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/step_definitions/" (19591 30886) "table_steps.rb" "teachings_steps.rb" "other_steps.rb" "form_steps.rb" "teachers_steps.rb" "email_steps.pickle" "webrat_steps.rb" "onyomi_steps.rb" "glossaries_steps.rb" "mailer_steps.rb" "scheduled_units_steps.rb" "pickle_steps_own.rb" "layout_steps.rb" "events_steps.rb" "login_steps.rb" "attendances_steps.rb" "users_steps.rb" "settings_steps.rb" "classrooms_steps.rb" "people_steps.rb" "browse_steps.rb" "courses_steps.rb" "units_steps.rb" "email_steps_own.rb" "students_steps.rb" "email_steps.rb" "template_klasses_steps.rb" "webrat_own.steps.rb" "selection_steps.rb" "courses_students_steps.rb" "pickle_steps.rb" "schedules_steps.rb" "./" "word_steps.rb" "../" "photos_steps.rb" "ajax_steps.rb" "klasses_steps.rb" "locales_steps.rb")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/confirm/" (19591 30886) "view.feature" "confirm_history.feature" "already_confirmed_view.feature" "confirm_view.feature" "confirm.feature" "./" "date.feature" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/public/stylesheets/" (19591 30886) "jquery.Jcrop.css" "rails.css" "clearfix.css" "reset-min.css" "yoyaku.less" "scaffold.css" "yoyaku.css" "yoyaku2.css" "fonts-min.css" "formtastic_changes.less" "Jcrop.gif" "formtastic_changes.css" "votes.css" "./" "../" "formtastic.css")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/users/" (19592 23727) "_confirm.html.erb" "_teacher_options.html.erb" "_user.html.erb" "reserve.html.erb" "show.html.erb" "reserve2.html.erb" "confirm.html.erb" "_already_reserved.html.erb" "edit_role.html.erb" "_reserve.html.erb" "already_reserved.html.erb" "new.html.erb" "salary.html.erb" "already_confirmed.html.erb" "confirm2.html.erb" "_student_options.html.erb" "_date_menu.html.erb" "edit.html.erb" "index.html.erb" "edit_courses.html.erb" "_reserve_history.html.erb" "_confirm_top_links.html.erb" "edit_multiple.html.erb" "./" "_reserve_top_links.html.erb" "change_password.html.erb" "../" "_teacher_salary.html.erb" "_already_confirmed.html.erb" "crop.html.erb" "_confirm_history.html.erb" "new_event_register.html.erb")
+
+ ("/home/cobra/ruby/rails/rpress/config/" (19592 29084) "routes.rb" "cucumber.yml" "locales/" "application.rb" "environments/" "environment.rb" "database.yml" "./" "../" "boot.rb" "initializers/")
+
+ ("/home/cobra/ruby/rails/first_app/db/" (19592 28926) "schema.rb" "migrate/" "./" "../" "seeds.rb")
+
+ ("/home/cobra/ruby/rails/first_app/app/" (19592 24615) "mailers/" "views/" "controllers/" "helpers/" "./" "../" "models/")
+
+ ("/home/cobra/ruby/rails/" (19592 24021) "rpress/" "first_app/" "./" "yoyaku/" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/public/" (19553 4488) "javascripts/" "assets/" "images/" "404.html" "422.html" "stylesheets/" "dispatch.rb" "dispatch.cgi" "./" "500.html" "yoyaku/" "../" "robots.txt" "dispatch.fcgi" "favicon.ico")
+
+ ("/home/cobra/ruby/rails/yoyaku/" (19584 58210) "thomas.txt" "examples/" "cucumber.yml" "doc/" "Rakefile" "data/" "cucumber.txt" "app/" "complex_forms.rtf" "spec/" "tmp/" ".gitignore" "test.rb" "config/" "todo.txt" ".irbrc" "log/" ".autotest.old" "public/" "git.lnk" "virtual attribute.rtf" ".eprj" "Capfile" "Translation" "test/" "./" "features/" "../" "reserve_Log.csv" "db/" ".git/" "script/" "lib/" "README" "vendor/")
+
+ ("/home/cobra/ruby/rails/yoyaku/db/" (19583 11468) "schema.rb" "migrate/" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/klasses/" (19583 17121) "show.html.erb" "index.html.erb.old" "new.html.erb" "new.html.erb.new" "_form.html.erb" "_klass.html.erb.old2" "edit.html.erb" "index.html.erb" "schema.html.erb" "./" "_klass.html.erb.old" "_klass.html.erb.new" "../" "_klass.html.erb" "_course.html.erb")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/banks/" (19551 44509) "manage.feature" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/units/" (19551 44509) "./" "manage_units.feature" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/reserve2/" (19582 7879) "view.feature" "#view.feature#" ".#view.feature" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/mypage/confirm2/" (19580 42508) "#basiq.feature#" "basiq.feature" "./" "../" ".#basiq.feature")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/confirm/" (19574 12827) "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/test/" (19575 18011) "integration/" "fixtures/" "test_helper.rb" "unit/" "functional/" "./" "../" "factories.rb")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/layouts/" (19575 16816) "docs.html.erb" "tags.html.erb" "documentation.html.erb" "./" "login.html.erb" "../" "courses.html.erb")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/users/reserve/" (19574 8859) "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/config/environments/" (19573 57769) "development.rb" "test.rb" "cucumber.rb" "./" "../" "production.rb" "cucumber_old.rb")
+
+ ("/home/cobra/jobs/mafumafu/tpm/ja/" (19572 54716) "index.htm" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/user_mailer/" (19551 44508) "update_0_26b.erb" "update_0_12.erb" "update_0_20.erb" "update_0_17b.erb" "update_0_17.erb" "update_0_21.erb" "next_weeks_shift_from.erb" "invitation.erb" "notification.erb" "reset_password.erb" "update_0_11.erb" "./" "update_0_19.erb" "update_0_25.erb" "../" "update_0_15.erb" "update_0_26.erb" "update_0_16.erb")
+
+ ("/home/cobra/jobs/mafumafu/tpm/" (19572 54642) "./" "en/" "../" "ja/")
+
+ ("/home/cobra/jobs/mafumafu/" (19572 54635) "tp/" "./" "../" "tpm/")
+
+ ("/home/cobra/jobs/" (19572 54031) "./" "../" "mafumafu/")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/classrooms/" (19551 44508) "show.html.erb" "new.html.erb" "_form.html.erb" "edit.html.erb" "index.html.erb" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/views/" (19551 44508) "todos/" "user_sessions/" "people/" "comments/" "glossaries/" "kunyomis/" "attendances/" "votes/" "words/" "system_mailer/" "units/" "students/" "reset_passwords/" "teachers/" "user_mailer/" "courses/" "settings/" "kanjis/" "includes/" "template_classes/" "tags/" "galleries/" "registrants/" "klasses/" "course_times/" "mails/" "onyomis/" "meanings/" "users/" "documentation/" "./" "admin/" "classrooms/" "events/" "schedules/" "../" "student_courses/" "stories/" "photos/" "mailer/" "student_classes/" "docs/" "layouts/" "invitations/" "teachings/")
+
+ ("/home/cobra/ruby/rails/yoyaku/spec/" (19571 29099) "spec.opts" "fixtures/" "views/" "controllers/" "helpers/" "./" "yoyaku/" "rcov.opts" "../" "spec_helper.rb" "models/")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/new/" (19551 44509) "banks/" "todos/" "glossaries/" "votes/" "words/" "courses/" "template_classes/" "galleries/" "registrants/" "mails/" "users/" "classes/" "./" "login/" "events/" "layout/" "../" "other/" "photos/" "mailer/" "invitations/" "teachings/")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/plain/" (19551 44509) "new/" "people/" "attendances/" "manage_klasses.feature" "units/" "students/" "teachers/" "courses/" "kanjis/" "manage_login.feature" "manage_redirections.feature" "classes/" "manage_students.feature" "./" "schedules/" "../" "manage_template_classes.feature")
+
+ ("/home/cobra/ruby/rails/yoyaku/features/" (19551 44509) "plain/" "support/" "step_definitions/" "./" "../" "enhanced/")
+
+ ("/home/cobra/ruby/rails/rpress/public/" (19570 13322) "javascripts/" "refractoring.html" "#refractoring.html#" "images/" "404.html" "422.html" "stylesheets/" "./" "500.html" "../" "robots.txt" "design_patterns.html" "favicon.ico" "estimating.html")
+
+ ("/home/cobra/ruby/refactoring/" (19566 3468) "chapter_3/" "chapter_2/" "./" "chapter_05/" "../")
+
+ ("/home/cobra/ruby/" (19564 57468) "secret_santas/" "refactoring/" "./" "../" "rails/")
+
+ ("/usr/share/themes/Emacs/gtk-2.0-key/" (19526 50776) "gtkrc" "./" "../")
+
+ ("/usr/share/themes/Emacs/" (19417 31103) "./" "../" "gtk-2.0-key/")
+
+ ("/usr/share/themes/" (19417 31321) "Dust Sand/" "Bright/" "New Wave/" "Ambiance/" "HighContrastInverse/" "Emacs/" "Inverted/" "Dust/" "ThinIce/" "Redmond/" "Metabox/" "HighContrastLargePrintInverse/" "Mist/" "Raleigh/" "AgingGorilla/" "Atlanta/" "./" "Simple/" "Radiance/" "Default/" "../" "New Wave Dark Menus/" "Industrial/" "Esco/" "ClearlooksClassic/" "Clearlooks/" "Crux/")
+
+ ("/usr/share/" (19552 62443) "man/" "pam-configs/" "misc/" "cli-common/" "consolefonts/" "lintian/" "keyrings/" "sgml/" "backgrounds/" "docbook-utils/" "recovery-mode/" "branding/" "liblouis/" "baobab/" "gnome-sound-recorder/" "aspell/" "midi/" "sgml-base/" "bug/" "sounds/" "empathy/" "gnome-session/" "man-db/" "gnome-screenshot/" "pycentral-data/" "evolution/" "ubuntu-artwork/" "GeoIP/" "gnome-games-common/" "terminfo/" "mono/" "gconf-editor/" "onboard/" "tabset/" "mono-1.0/" "foo2hp/" "debianutils/" "git-core/" "dict/" "foo2zjs/" "gstreamer-0.10/" "libsensors4/" "directfb-1.2.8/" "aptitude/" "ppp/" "gnome-background-properties/" "pixmaps/" "foomatic/" "dpkg/" "application-registry/" "kde4/" "gnome-applets/" "anthy/" "m17n/" "file-roller/" "locales/" "popularity-contest/" "doc/" "yelp/" "simple-scan/" "samba/" "snmp/" "aclocal/" "python-support/" "webkit-1.0/" "update-manager/" "et/" "gksu/" "vinagre/" "gir-1.0/" "perl5/" "asciidoc/" "vte/" "brasero/" "gnome-screensaver/" "xmlto/" "bison/" "checkbox/" "unattended-upgrades/" "gst-python/" "desktopcouch/" "update-notifier/" "orca/" "initramfs-tools/" "libgnome-desktop/" "python-apt/" "djvu/" "f-spot/" "calendar/" "vinagre-1/" "games/" "gnome-keyring/" "irssi/" "adium/" "menu/" "gnome-utils/" "binfmts/" "dblatex/" "media-player-info/" "pygtk/" "compiz/" "texlive-bin/" "gutenprint/" "os-prober/" "xml/" "hal/" "images/" "libubuntuone/" "ufw/" "gnome-2.0/" "emacs23/" "pyshared-data/" "gdb/" "gnome-dictionary/" "tex-common/" "gnome-vpn-properties/" "gnome-bluetooth/" "foo2xqx/" "ssl-cert/" "totem/" "initrd-tools/" "foo2slx/" "groff/" "pam/" "nautilus/" "texlive-base/" "apport/" "system-config-printer/" "gnome-sudoku/" "omf-langpack/" "gnome-terminal/" "iptables/" "ImageMagick-6.5.7/" "ibus-m17n/" "apt-xapian-index/" "gnome-nettool/" "indicators/" "apt/" "gnome-doc-utils/" "acpi-support/" "mplayer/" "vino/" "aclocal-1.11/" "gtk-engines/" "gwibber/" "java/" "mobile-broadband-provider-info/" "tasksel/" "purple/" "ubuntuone/" "mythes/" "seahorse/" "gdict-1.0/" "ghostscript/" "locale-langpack/" "hyphen/" "gnome-about/" "ifupdown/" "common-licenses/" "enchant/" "alsa-base/" "nano/" "gdm/" "debhelper/" "libvisual-plugins-0.4/" "pkgconfig/" "lftp/" "gnome/" "vim/" "metacity/" "mousetweaks/" "synaptic/" "perl/" "evolution-data-server-2.28/" "base-files/" "pitivi/" "espeak-data/" "gvfs/" "build-essential/" "language-support/" "mysql/" "mime-info/" "xul-ext/" "gnome-panel/" "icons/" "NetworkManager/" "linux-sound-base/" "foo2hiperc/" "insserv/" "eog/" "gnupg/" "nautilus-sendto/" "gtksourceview-2.0/" "fonts/" "nvidia-common/" "i18n/" "system-tools-backends-2.0/" "awk/" "hunspell/" "im-switch/" "gnome-pilot/" "pyshared/" "adduser/" "brltty/" "dbus-1/" "jockey/" "launchpad-integration/" "byobu/" "avahi/" "libgphoto2/" "applications/" "javascript/" "gnome-control-center/" "locale/" "gnome-system-tools/" "computerjanitor/" "gnome-user-share/" "dictionaries-common/" "emacs/" "gnome-menus/" "telepathy/" "apps/" "alsa/" "nm-applet/" "gcalctool/" "python/" "apturl/" "compizconfig/" "ibus/" "qt4/" "w3m/" "gettext/" "sane/" "usb-creator/" "pnm2ppa/" "screen-resolution-extra/" "sgml-data/" "software-properties/" "base-passwd/" "ibus-anthy/" "X11/" "ca-certificates/" "gtkhtml-3.14/" "omf/" "initscripts/" "computer-janitor/" "screen/" "ppd/" "app-install/" "binfmt-support/" "gnome-media/" "texmf-texlive/" "xscreensaver/" "defoma/" "gdebi/" "grub/" "notify-osd/" "couchdb/" "dotnet/" "software-center/" "ubuntu-docs/" "firefox/" "themes/" "transmission/" "tcltk/" "guile/" "language-selector/" "libparse-debianchangelog-perl/" "gtk-doc/" "openoffice/" "zoneinfo/" "gstreamer-properties/" "cups/" "vlc/" "polkit-1/" "evolution-exchange/" "mime/" "xml-core/" "gconf/" "speech-dispatcher/" "gnome-power-manager/" "librarian/" "foo2lava/" "command-not-found/" "tomboy/" "automake-1.11/" "nautilus-share/" "ibus-table/" "readline/" "rhythmbox/" "pulseaudio/" "evince/" "mysql-gui/" "e2fsprogs/" "libgksu/" "ubuntuone-client/" "doc-base/" "libthai/" "example-content/" "alacarte/" "file/" "gnome-games/" "xserver-xorg/" "console-setup/" "mozilla/" "texmf/" "rsyslog/" "autoconf/" "gnome-settings-daemon/" "consoletrans/" "libgweather/" "zenity/" "glade3/" "debconf/" "gedit-2/" "myspell/" "idl/" "gcr0/" "foo2oak/" "mysql-common/" "hplip/" "desktop-directories/" "info/" "sysv-rc/" "ffmpeg/" "foo2qpdl/" "xsessions/" "rdesktop/" "gnome-mag/" "libindicator/" "xmodmap/" "../" "./")
+
+ ("/usr/" (19527 53125) "games/" "bin/" "local/" "src/" "share/" "lib64/" "./" "../" "include/" "sbin/" "lib/")
+
+ ("~/" (19564 53330) "227_upgrading_to_rails_3_part_3.mov" ".subversion/" ".ssh/" ".mysql_history" "Templates/" ".mozilla/" ".eshell/" ".openoffice.org/" ".xinput.d/" ".recently-used.xbel.2I0JGV" ".usbcreator.log" ".gksu.lock" "Downloads/" "Videos/" ".recentf" ".thumbnails/" "rbs_bus3.html" ".adobe/" ".emacs.d/" ".gvfs/" "rbs_bus_files/" "rbs_bus.html" ".recently-used.xbel.KPIPGV" ".pulse/" ".mplayer/" ".esd_auth" "Pictures/" "japanese.txt" "job/" ".xsession-errors" ".gconf/" ".anthy/" ".rvm/" ".viminfo" ".fontconfig/" ".debtags/" ".bash_history" ".recently-used.xbel.BV7XGV" ".xsession-errors.old" ".dbus/" "ruby_installation.txt" ".gnome2_private/" ".aptitude/" ".gstreamer-0.10/" ".profile" ".bashrc" ".evolution/" ".cache/" "keyswap.bat" ".gnome2/" "Music/" ".ICEauthority" "rbs_bus3_files/" "225_upgrading_to_rails_3_part_1.mov" ".local/" ".recently-used.xbel" ".gconfd/" "./" ".irssi/" ".ido.last" ".update-notifier/" "ruby/" ".pulse-cookie" "examples.desktop" ".gem/" ".gtkrc.mine" "../" ".sudo_as_admin_successful" ".nautilus/" "Desktop/" "Documents/" "rbs_bus2.html" "226_upgrading_to_rails_3_part_2.m4v.mp4" ".dmrc" ".bash_logout" ".macromedia/" ".config/" "1-getting-started.mov" "coco.el" ".gtk-bookmarks" "Public/" "blog/" ".mission-control/" ".gtkrc")
+
+ ("/home/cobra/blog/" (19563 50693) "ruby_installation.txt" "./" "../" "emacs.txt")
+
+ ("~/ruby/rails/rpress/app/controllers/" (19563 48723) "application_controller.rb" "posts_controller.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/app/helpers/" (19563 44012) "posts_helper.rb" "application_helper.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/app/models/" (19563 43604) "user.rb" "post.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/app/controllers/" (19563 48723) "application_controller.rb" "posts_controller.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/app/views/posts/" (19563 48790) "show.html.erb" "new.html.erb" "_form.html.erb" "_post.html.erb" "edit.html.erb" "index.html.erb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/features/support/" (19563 33523) "paths.rb" "pickle.rb" "env.rb" "paths_own.txt" "./" "email.rb" "../")
+
+ ("/home/cobra/ruby/rails/rpress/features/step_definitions/" (19563 35472) "layout_steps.rb" "path_steps.rb" "web_steps.rb" "routes_steps.rb" "email_steps.rb" "pickle_steps.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/rpress/features/posts/" (19563 37474) "index.feature" "show.feature" "edit.feature" "new.feature" "./" "../" "delete.feature")
+
+ ("/home/cobra/ruby/rails/rpress/" (19563 41742) "doc/" "Rakefile" "Gemfile.lock" "app/" "tmp/" ".gitignore" "config/" "log/" "public/" "config.ru" "test/" "./" "features/" "Gemfile" "../" "db/" ".bundle/" "script/" "lib/" "README" "vendor/")
+
+ ("/home/cobra/ruby/rails/rpress/features/" (19562 18859) "support/" "step_definitions/" "posts/" "./" "../" "front_page.feature")
+
+ ("/home/cobra/ruby/rails/rpress/app/views/" (19528 16784) "posts/" "./" "../" "layouts/")
+
+ ("/home/cobra/ruby/rails/yoyaku/config/initializers/" (19553 4050) "new_rails_defaults.rb" "paperclip.rb" "mime_types.rb" "field_with_error_fix.rb" "formtastic.rb" "./" "inflections.rb" "smtp_gmail.rb" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/app/" (19551 44508) "views/" "controllers/" "helpers/" "./" "../" "models/")
+
+ ("/home/cobra/ruby/rails/yoyaku/script/" (19551 44509) "destroy" "plugin" "generate" "delayed_job" "spec" "server" "dbconsole" "about" "runner" "cucumber" "console" "autospec" "spec_server" "./" "performance/" "../" "process/")
+
+ ("~/ruby/secret_santas/features/" (19547 62105) "start_game.feature" "support/" "step_definitions/" "./" "../")
+
+ ("/home/cobra/.emacs.d/vendor/yasnippet-0.6.1c/snippets/text-mode/ruby-mode/" (19547 56698) "bm" "inject" "eai" "y" "def" "cls" "eav" "upt" "#" "r" "deli" "rw" "cla" "until" "det" "app" "rreq" "rb" "select" "collect" "all" "forin" "if" "eawi" "any" "zip" "reject" "tim" "ife" "when" "=b" "dow" "w" "./" "classify" "Comp" "req" "case" "eac" "dee" "../" "while" "ea" "mm" "am")
+
+ ("/home/cobra/ruby/secret_santas/spec/secret_santas/" (19547 64032) "game_spec.rb" "game_spec_flymake.rb" "./" "../")
+
+ ("/home/cobra/ruby/secret_santas/lib/secret_santas/" (19547 63639) "./" "../" "game.rb")
+
+ ("/home/cobra/ruby/secret_santas/bin/" (19547 63786) "secret_santas" "santas.txt" "./" "../")
+
+ ("/home/cobra/ruby/secret_santas/features/step_definitions/" (19547 62559) "secret_santas_steps.rb" "./" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/vendor/plugins/" (19551 44509) "vestal_versions/" "selenium-on-rails/" "paperclip/" "./" "deliver_later/" "../")
+
+ ("/home/cobra/ruby/rails/yoyaku/vendor/" (19551 44509) ".gitignore" "plugins/" "./" "../")
+
+ ("/home/cobra/ruby/secret_santas/features/" (19547 62105) "start_game.feature" "support/" "step_definitions/" "./" "../")
+
+ ("/home/cobra/ruby/secret_santas/spec/" (19547 45617) "secret_santas/" "./" "../" "spec_helper.rb")
+
+ ("/home/cobra/ruby/secret_santas/lib/" (19547 45667) "secret_santas/" "./" "../" "secret_santas.rb")
+
+ ("/home/cobra/job/" (19547 41047) "05_2_confirm.jpg" "07_1_class_new.jpg" "minmap.odg" "04_2_picture_edit.jpg" "05_4_0_mailbox.jpg" "03_0_gallery_info.jpg" "05_5_new_profile.JPG" "06_1_user_edit_role.jpg" "02_0_event_index.jpg" "mindmap_b.odt" "06_3_user_edit_course_teacher.jpg" "02_1_event_new.jpg" "04_1_picture_new.jpg" "08_3_template_class_info.jpg" "06_0_user_index.jpg" "03_1_gallery_edit.jpg" "09_0_course_index.jpg" "01_0_login.JPG" "01_1_change_password.JPG" "mindmap_a.odg" "03_2_gallery_index.jpg" "mindmap_b.pdf" "09_1_course_new.jpg" "08_2_template_class_edit.jpg" "05_3_reserve.JPG" "07_0_class_index.gif" "05_1_edit_profile.JPG" "06_4_mailer.jpg" "05_4_2_mail_info.jpg" "mindmap_b.doc" "07_3_class_info.jpg" "02_2_event_edit.jpg" "02_3_event_info.jpg" "yoyaku.rar" "mindmap_a.pdf" "06_2_user_edit_course_student.jpg" "07_2_class_edit.jpg" "mindmap.odg" "./" "04_0_picture_info.jpg" "../" "02_4_register_new.jpg" "01_2_forgot_password.JPG" "09_2_course_edit.jpg" "09_3_course_info.jpg" "mindmap.gif" "08_1_template_class_new.jpg" "08_0_template_class_index.jpg" "05_4_1_mail_new.jpg" "mindmap.pdf")
+
+ ("/bin/" (19526 49483) "echo" "bzless" "static-sh" "dumpkeys" "ping6" "openvt" "zfgrep" "uname" "pidof" "lesspipe" "ntfs-3g.secaudit" "zforce" "dash" "bunzip2" "false" "rm" "mt" "readlink" "df" "cpio" "open" "sh.distrib" "dbus-daemon" "fuser" "vdir" "unicode_start" "zegrep" "mount" "ps" "cat" "bzexe" "chown" "ls" "mktemp" "ypdomainname" "ulockmgr_server" "zless" "fusermount" "hostname" "bash" "bzgrep" "kbd_mode" "nc.openbsd" "ip" "run-parts" "umount" "rmdir" "tempfile" "rnano" "bzcat" "date" "gzexe" "true" "bzdiff" "busybox" "bzfgrep" "fgrep" "cp" "sync" "zgrep" "netcat" "ntfs-3g" "nano" "setfont" "bzmore" "setupcon" "zmore" "lesskey" "dd" "ping" "znew" "netstat" "mv" "dir" "grep" "nc" "less" "mkdir" "bzip2recover" "loadkeys" "chvt" "lsmod" "gunzip" "ntfs-3g.probe" "mknod" "tar" "dmesg" "rbash" "sh" "ntfs-3g.usermap" "lessfile" "bzegrep" "tailf" "./" "chmod" "uncompress" "ln" "pwd" "gzip" "more" "touch" "bzip2" "login" "sleep" "chgrp" "zcmp" "nisdomainname" "../" "sed" "dnsdomainname" "dbus-uuidgen" "zcat" "egrep" "kill" "plymouth" "zdiff" "ed" "fgconsole" "stty" "su" "bzcmp" "mountpoint" "domainname" "which" "lessecho" "mt-gnu" "dbus-cleanup-sockets")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

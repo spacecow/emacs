@@ -1,0 +1,5 @@
+Given a setting exist with name: "main"
+#	And a user: "junko" exists with username: "junko", role: "registrant, student", language: "en", name: "Junko Sumii"
+
+When I go to the reserve page for user: "johan" on "2010-03-06"
+Then I should see "Johan Sveholm - Reserve" as title

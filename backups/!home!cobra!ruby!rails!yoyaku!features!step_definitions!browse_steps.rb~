@@ -1,0 +1,3 @@
+When /^I browse to the reserve page for user: "([^\"]*)"$/ do |user|
+
+end

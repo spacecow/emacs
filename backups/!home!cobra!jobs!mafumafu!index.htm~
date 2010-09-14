@@ -1,0 +1,134 @@
+<html lang="ja">
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=shift_jis">
+		<title>NPO法人学割netイベント申込フォーム</title>
+		<style>
+			.header{
+				margin-top: 40px;
+				margin-bottom: 40px;
+				font-weight: bold;
+			}
+			.intro{
+				border-width: 1px 1px 1px 1px;
+				border-style: solid;
+				border-color: #7F9DB9;
+				padding: 5px;
+			}
+			.left{
+				background-color: #e5e5e5;
+				width: 250px;	
+				font-size: 13px;
+				font-weight: bold;
+			}
+			.right{
+				background-color: white;
+				width: 391px;
+				font-size: 13px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div align="center">
+			<p class="header">
+			</p>
+			<table width="500" class="intro">
+				<tr>
+					<td>
+国際交流イベントの申込フォームです。“複数人の申込”はできませんので“お一人
+ずつ申込”して頂き、イベント当日にお友達と同じグループを希望される場合は“備
+考欄”にお友達の名前を記載下さい。尚、ご登録頂いた個人情報は国際交流イベント
+関連以外では使用しませんのでご安心下さい。また、電話番号・メールアドレスは正
+しく記載下さい。ご返信ができなくなりますので。
+					</td>
+				</tr>
+			</table><br/ >
+
+			<form action="../../cgi-bin/tp/mail_ja.cgi" method="post" name="form1">
+				<p><input type="hidden" name="mycmd" value="send"></p>
+				<table summary="" width="81" border="0" cellspacing="0" cellpadding="0">
+					<tbody>
+						<tr bgcolor="#cccccc">
+							<td>
+								<table summary="" width="644" border="0" cellspacing="1" cellpadding="0">
+									<tbody>
+										<tr align="left" valign="center">
+											<td class="left">参加希望イベント</td>
+											<td class="right">
+												<input type="checkbox" name="sanka2" value="2010/08/28 (Sat) Talking Party R50">
+												8月 28日(土)TALKING PARTY R50<br/>
+												<input type="checkbox" name="sanka3" value="2010/09/25 (Sat) Talking Party R51">
+												9月 25日(土)TALKING PARTY R51
+											</td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">参加形態</td>
+											<td class="right">
+												<select name="occupation">
+													<option value="">---</option>
+													<option value="一般(有償)">一般(有償)</option>
+													<option value="一般(無償/中学生以下)">一般(無償/中学生以下)</option>
+													<option value="NPO法人学割net会員(無償)">NPO法人学割net会員(無償)</option>
+													<option value="まふまふ語学講座生徒(有償/割引)">まふまふ語学講座生徒(有償/割引)</option>
+													<option value="TPチケット使用(無償/一般)">TPチケット使用(無償/一般)</option>
+													<option value="TPチケット使用(無償/受講生)">TPチケット使用(無償/受講生)</option>
+												</select>
+											</td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">名前</td>
+											<td class="right"><input type="text" name="name" size="30"></td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">名前/ふりがな	</td>
+											<td class="right"><input type="text" name="furigana" size="30"></td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">性別</td>
+											<td class="right">
+												<input type="radio" name="gender" value="男"><b><font size="2" color="#666666" face="ＭＳ Ｐゴシック, Osaka">男　</font></b>
+												<input type="radio" name="gender" value="女"><b><font size="2" color="#666666" face="ＭＳ Ｐゴシック, Osaka">女　</font></b>
+											</td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">年代</td>
+											<td class="right">
+												<select name="age" size="1" >
+													<option value="">---</option>
+													<option value="中学生以下">中学生以下</option>
+													<option value="10代">10代</option>
+													<option value="20代">20代</option>
+													<option value="30代">30代</option>
+													<option value="40代">40代</option>
+													<option value="50代">50代</option>
+													<option value="60代以上">60代以上</option>
+												</select></td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">電話番号</td>
+											<td class="right"><input type="text" name="tel" size="20"></td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">メールアドレス</td>
+											<td class="right"><input type="text" name="email" size="35"></td>
+										</tr>
+										<tr align="left" valign="center">
+											<td class="left">備考</td>
+											<td class="right"><input type="text" name="note" size="75"></td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p></p>
+				<center>
+					<input type="submit" name="submit" value="参加申込"></center>
+
+			</form>
+		</div>
+	</body>
+
+</html>

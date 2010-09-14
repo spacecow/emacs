@@ -1,0 +1,20 @@
+Background:
+Given a setting exist with name: "main"
+And a user: "junko" exists with username: "junko", role: "registrant, student", language: "en", name: "Junko Sumii"
+And a user: "johan" exists with username: "johan", role: "god, teacher, student", language: "en", name: "Johan Sveholm"
+
+@already_reserved
+Scenario Outline: If a class exists doubled, the one in use should be displayed
+Given a course: "ruby" exists with name: "Ruby I"
+And coure: "ruby" is one of user: "junko"'s student_courses
+And a klass: "klass16-1" exists with date: "2010-03-18", course: course "ruby"
+And a klass: "klass16-2" exists with date: "2010-03-18", course: course "ruby"
+And an attendance exists with student: user "junko", klass: klass "<klass>"
+And a user is logged in as "johan"
+When I browse to the reserve page for user: "johan" for "03/15～03/20"
+Then I should see "3/18(Thursday) - Ruby I - 12:00~13:00" within "div.reserved"
+	And the page should have no "reservable" section
+Examples:
+|	klass			|
+|	klass16-1	|
+|	klass16-2	|

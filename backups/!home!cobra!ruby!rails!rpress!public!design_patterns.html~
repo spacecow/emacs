@@ -1,0 +1,6 @@
+<h2>Flyweight Pattern</h2>
+A flyweight patterns is an object that minimises memory use by sharing
+as much data as possible with other similar objects; it is a way to
+use objects in large numbers when a simple repeated representation
+would use an unacceptable amount of memory. In other contexts the idea
+of sharing data structures is called <i>hash consing</i>.

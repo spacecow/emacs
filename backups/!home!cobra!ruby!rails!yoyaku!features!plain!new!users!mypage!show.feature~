@@ -1,0 +1,6 @@
+Background:
+Given a setting exists with name: "main"
+And a user: "reiko" exist with username: "reiko", role: "student, registrant", 
+
+Scenario: Display for student
+

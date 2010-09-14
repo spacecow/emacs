@@ -1,0 +1,60 @@
+<html lang="ja">
+<head>
+<title>NPO法人学割netイベント申込フォーム</title>
+</head>
+<body>
+国際交流イベントの申込フォームです。“複数人の申込”はできませんので“お一人
+ずつ申込”して頂き、イベント当日にお友達と同じグループを希望される場合は“備
+考欄”にお友達の名前を記載下さい。尚、ご登録頂いた個人情報は国際交流イベント
+関連以外では使用しませんのでご安心下さい。また、電話番号・メールアドレスは正
+しく記載下さい。ご返信ができなくなりますので。<br />
+<hr>
+<form name="form1" method="post" action="../../cgi-bin/tp/mail_ja.cgi">
+<input type="hidden" name="mycmd" value="send">
+<input type="hidden" name="mykey" value="1">
+参加希望イベント<br />
+<input type="checkbox" name="sanka2" value="2010/08/28 (Sat) Talking Party R50">
+8月 28日(土)TALKING PARTY R50<br />
+<input type="checkbox" name="sanka3" value="2010/09/25 (Sat) Talking Party R51">
+9月 25日(土)TALKING PARTY R51<br />
+参加形態<br />
+<select name="occupation">
+	<option value="">---</option>
+	<option value="一般(有償)">一般(有償)</option>
+	<option value="一般(無償/中学生以下)">一般(無償/中学生以下)</option>
+	<option value="NPO法人学割net会員(無償)">NPO法人学割net会員(無償)</option>
+	<option value="まふまふ語学講座生徒(有償/割引)">まふまふ語学講座生徒(有償/割引)</option>
+	<option value="TPチケット使用(無償/一般)">TPチケット使用(無償/一般)</option>
+	<option value="TPチケット使用(無償/受講生)">TPチケット使用(無償/受講生)</option>
+</select><br />
+名前<br />
+<input type="text" name="name"><br />
+名前/ふりがな<br />
+<input type="text" name="furigana"><br />
+性別<br />
+<input type="radio" name="gender" value="男" >男
+<input type="radio" name="gender" value="女" >女<br>
+年代<br />
+<select name="age">
+	<option value="">---</option>
+	<option value="中学生以下">中学生以下</option>
+	<option value="10代">10代</option>
+	<option value="20代">20代</option>
+	<option value="30代">30代</option>
+	<option value="40代">40代</option>
+	<option value="50代">50代</option>
+	<option value="60代以上">60代以上</option>
+</select><br />
+電話番号<br />
+<input type="text" name="tel"><br />
+メールアドレス<br />
+<input type="text" name="email"><br />
+備考<br />
+<input type="text" name="note"><br />
+<hr>
+<center>
+<input type="submit" name="submit" value="参加申込">
+</center>
+</form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<h2><%= @post.title %></h2>
+<div class="post_meta">
+  <span class="post_author">
+    written by <%= @post.author.name %>
+  </span>
+  <span class="post_date">
+    on <%= @post.published_on.strftime("%b %d, %Y") %>
+  </span>
+</div>
+<p class="post_body">
+  <%= Textiler.new(@post.body) %>
+</p>
+
+<%= link_to "Edit", edit_post_path(@post) %>
+<%= link_to "List Posts", posts_path %>
